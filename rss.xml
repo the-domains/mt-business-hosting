@@ -4,8 +4,15 @@
         <description><![CDATA[MT Business Hosting]]></description>
         <link>https://thegrid.ai/mt-business-hosting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 08:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 08:38:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mt-business-hosting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b85ea67-b7ec-4418-a853-adc6d1df26a4.jpg">]]></description>
+            <link>https://thegrid.ai/mt-business-hosting/672b28dd-7a46-4938-81b0-c19ab2637179/index.html</link>
+            <guid isPermaLink="false">672b28dd-7a46-4938-81b0-c19ab2637179</guid>
+            <pubDate>Fri, 19 Feb 2016 08:38:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1368d4e-e351-4018-9a05-b067c8003977.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/mt-business-hosting/872e2d75-355d-4aa1-88a2-e763abfd12a5/index.html</link>
             <guid isPermaLink="false">872e2d75-355d-4aa1-88a2-e763abfd12a5</guid>
             <pubDate>Fri, 19 Feb 2016 07:28:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>© 2016 MT Business Hosting, Inc. | All Rights Reserved. </p>]]></description>
-            <link>https://thegrid.ai/mt-business-hosting/7332ce7f-46da-4170-8b55-8bb60896920f/index.html</link>
-            <guid isPermaLink="false">7332ce7f-46da-4170-8b55-8bb60896920f</guid>
-            <pubDate>Fri, 19 Feb 2016 07:18:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
